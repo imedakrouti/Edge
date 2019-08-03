@@ -1,0 +1,12 @@
+.items .item{
+    display: flex;
+    text-align: left;
+}
+.items .item i{
+    align-self: center;
+    margin-right: 1.2rem;
+    margin-bottom: 0;
+}
+.map{
+    flex: 2;
+}
